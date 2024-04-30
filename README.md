@@ -28,9 +28,4 @@ This script implements a Credit Card Validator using the Luhn algorithm. It chec
 
 ## Contributors
 
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- SRIKANT
